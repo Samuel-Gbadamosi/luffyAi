@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+}
+.mydroneheader{
+    height: 923px;
+    background-image:url('./dronyBot.png');
+    background-size: contain;
+    background-repeat: round;
+}
+
+.mylogo{
+    height: 59px;
+    margin-top: 15px;
+}
+
+.mylist li{
+    color: white;
+    list-style: none;
+    padding-left: 55px;
+    margin-top: 31px;
+    font-size: .9rem;
+    font-weight: 600;
+}
+
+.testbg{
+    height: 300px;
+    position: relative;
+    top: 230px;
+}
+
+.buffy li {
+    list-style: none;
+}
+
+.buffy li h1{
+    color: white;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+
+.buffy li h2{
+    color: red;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.buffy .robo{
+    color: white;
+    font-size: 20px;
+    margin-top: 35px;
+}
+
+.find{
+    height: 100px;
+    position: relative;
+    right: 30px;
+}
+
+.find ul li {
+    color: white;
+    font-weight: 500;
+}
+
+.titties{
+    background-color: white;
+    height: 3px;
+    width: 165px;
+    margin-left: 16px;
+}
+
+
+
+.mybox p{
+    font-size: 80px;
+    font-weight: 700;
+    border-bottom: 2px solid #e03c31;
+
+}
+
+.mysectOne{
+    height: 500px;
+    /* background-color: orange; */
+}
+
+.text p {
+    font-size: 20px;
+    color: #e03c31;
+    font-weight: 600;
+    padding-top: 23px;
+}
+
+.text h2{
+    font-size: 45px;
+    font-weight: 800;
+}
+.bgimg iframe{
+    height: 300px;
+    width: 593px;
+    background-color: pink;
+}
+
+.rob p{
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 9px;
+}
+
+.pino{
+    position: relative;
+    height: 304px;
+    bottom: 55px;
+    left: 78px;
+}
+
+.sect4{
+    height: 400px;
+    background-color: #eaf0df70;
+    margin-top: 50px;
+}
+
+.sect4 .mine{
+    border-bottom: 3px solid black;
+}
+
+.log{
+    height: 30px;
+}
+.check{
+    margin-left: 56px;
+    height: 18px;
+}
+
+.lim{
+    padding-left: 40px;
+}
+.limo{
+    padding-left: 55px;
+}
+
+.blank{
+    text-align: center;
+    margin-right: 64px;
+}
+
