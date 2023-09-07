@@ -120,8 +120,8 @@ body {
 }
 
 .sect4{
-    height: 400px;
-    background-color: #eaf0df70;
+    height: 450px;
+    background-color: #eaf0df26;
     margin-top: 50px;
 }
 
@@ -147,5 +147,32 @@ body {
 .blank{
     text-align: center;
     margin-right: 64px;
+}
+
+.sexy{
+    height: 400px;
+    background-color: orange;
+}
+
+.myboxer p{
+    font-size: 80px;
+    font-weight: 700;
+    border-bottom: 2px solid #e03c31;
+    text-align: center;
+}
+
+.sexy h1{
+    font-weight: 800;
+    font-size: 44px;
+}
+
+.mypic{
+    height: 263px;
+    width: 100%;
+}
+
+.migos h5{
+    padding-top: 10px;
+    font-weight: 800;
 }
 
