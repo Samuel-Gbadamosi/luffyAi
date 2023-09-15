@@ -85,7 +85,7 @@ body {
 }
 
 .mysectOne{
-    height: 500px;
+    /* height: 500px; */
     /* background-color: orange; */
 }
 
@@ -120,7 +120,7 @@ body {
 }
 
 .sect4{
-    height: 450px;
+    /* height: 450px; */
     background-color: #eaf0df26;
     margin-top: 50px;
 }
@@ -150,8 +150,7 @@ body {
 }
 
 .sexy{
-    height: 400px;
-    background-color: orange;
+    /* height: 400px; */
 }
 
 .myboxer p{
@@ -166,6 +165,12 @@ body {
     font-size: 44px;
 }
 
+.lico{
+    height: 500px;
+    background-color: #e6d6d624;
+    
+}
+
 .mypic{
     height: 263px;
     width: 100%;
@@ -176,3 +181,32 @@ body {
     font-weight: 800;
 }
 
+.bgimgred{
+    height: 50px;
+    background-image: url('./svglogo.svg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 43px;
+    right: 141px;
+    height: 100px;
+    transition: .6s cubic-bezier(0.76, 0, 0.24, 1);
+    opacity: 1;
+}
+
+
+.ogagarf{
+    height: 69%;
+}
+
+.tct{
+    font-size: 43px;
+    font-style: italic;
+    font-weight: 600;
+    padding-top: 81px;
+}
+
+.tg{
+    font-weight: 700;
+}
