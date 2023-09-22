@@ -5,7 +5,7 @@
 }
 
 body {
-    min-height: 100vh;
+    /* min-height: 100vh; */
 }
 .mydroneheader{
     height: 923px;
@@ -102,8 +102,7 @@ body {
 }
 .bgimg iframe{
     height: 300px;
-    width: 593px;
-    background-color: pink;
+    width: 100%;
 }
 
 .rob p{
@@ -115,8 +114,8 @@ body {
 .pino{
     position: relative;
     height: 304px;
-    bottom: 55px;
-    left: 78px;
+    bottom: 35px;
+    left: 110px;
 }
 
 .sect4{
@@ -166,7 +165,7 @@ body {
 }
 
 .lico{
-    height: 500px;
+    /* height: 500px; */
     background-color: #e6d6d624;
     
 }
@@ -178,7 +177,7 @@ body {
 
 .migos h5{
     padding-top: 10px;
-    font-weight: 800;
+    font-weight: 300;
 }
 
 .bgimgred{
@@ -209,4 +208,33 @@ body {
 
 .tg{
     font-weight: 700;
+}
+
+.myfoot{
+    /* height: 450px; */
+    /* background-color: orange; */
+}
+
+.mybopop p{
+    font-size: 50px;
+    font-weight: 500;
+    border-bottom: 3px solid red;
+}
+
+.indy{
+    color: red;
+    text-decoration: underline;
+}
+
+
+.touch{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.con{
+    color: red;
+    font-size: 21px;
+    font-weight: 700;
+    margin-bottom: -2px;
 }
